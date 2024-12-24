@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: world
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/world
+    username: root
+    password: root
+  data:
+    redis:
+      host: 127.0.0.1
+      port: 6379
+
+thumb:
+  list:
+    - https://pic1.zhimg.com/v2-ea5496b27643390a2c04a3231000e49c_b.webp?consumer=ZHI_MENG
+    - https://picx.zhimg.com/v2-6178d12c7f3d6e89dc4f243a8ea9dac9_b.webp?consumer=ZHI_MENG
+    - https://pica.zhimg.com/v2-0a63ea8f4d7ee6578ac33760411e4cd0_b.webp?consumer=ZHI_MENG
+    - https://pic1.zhimg.com/v2-a5cd2738a2ae082b9239dbe6ccc1a514_b.webp?consumer=ZHI_MENG
+    - https://pica.zhimg.com/v2-a152c73da8ed50be2ef1168d908eaa12_b.webp?consumer=ZHI_MENG
+    - https://pica.zhimg.com/v2-2f896f9ce5f7b3acb1e39b950bbdbc64_b.webp?consumer=ZHI_MENG
